@@ -1,6 +1,6 @@
-##Handle Status Page
+## Handle Status Page
 
-##手柄网站状态页面
+## 手柄网站状态页面
 
 Modified from [Coxxs/status](https://github.com/Coxxs/status/)
 
