@@ -1,20 +1,10 @@
-Status
-======
+## Handle Status Page
 
-基于 [Upscuits](https://github.com/digibart/upscuits)，以 [UptimeRobot](https://uptimerobot.com/) 为数据源的在线状态统计页面。
+## 手柄网站状态页面
 
-**2016-10-6** Uptime Robot 已经新增 Public Status Pages 功能，详见 [官网](http://blog.uptimerobot.com/introducing-public-status-pages-yay/)。
+Modified from [Coxxs/status](https://github.com/Coxxs/status/)
 
-## 使用方法
-
-1. 注册 [UptimeRobot](https://uptimerobot.com/)，获取 [Monitor-Specific API Keys](https://uptimerobot.com/dashboard.php#mySettings)
-2. 将 `API Keys` 填入 `js/config.js`
-3. 修改 `index.html` 内的页面标题等信息
-4. 完成！
-
-## 演示
-
-[酷Q状态](http://status.cqp.cc)
+修改自 [Coxxs/status](https://github.com/Coxxs/status/)
 
 ## License
 
